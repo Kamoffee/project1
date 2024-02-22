@@ -1,0 +1,2 @@
+Welcome Code Louisville!
+It is nice to write in a document in terminal.
